@@ -1,0 +1,101 @@
+Question,Answer
+What is AI?,AI stands for Artificial Intelligence.
+What is Machine Learning?,Machine Learning is a subset of AI that enables systems to learn from data.
+What is Deep Learning?,Deep Learning is a branch of Machine Learning based on neural networks.
+What is NLP?,NLP stands for Natural Language Processing.
+What is Computer Vision?,Computer Vision enables machines to interpret and understand images and videos.
+Who is known as the father of AI?,John McCarthy is known as the father of Artificial Intelligence.
+What is supervised learning?,Supervised learning uses labeled data to train models.
+What is unsupervised learning?,Unsupervised learning finds patterns in unlabeled data.
+What is reinforcement learning?,Reinforcement learning trains agents using rewards and penalties.
+What is a neural network?,A neural network is a computing system inspired by the human brain.
+What is a dataset?,A dataset is a collection of data used for analysis or training models.
+What is training data?,Training data is used to teach machine learning models.
+What is testing data?,Testing data evaluates the performance of a trained model.
+What is overfitting?,Overfitting occurs when a model learns noise instead of patterns.
+What is underfitting?,Underfitting occurs when a model fails to learn important patterns.
+What is accuracy in machine learning?,Accuracy measures how often a model predicts correctly.
+What is precision?,Precision measures the correctness of positive predictions.
+What is recall?,Recall measures the ability to identify all positive cases.
+What is F1-score?,F1-score is the harmonic mean of precision and recall.
+What is a feature?,A feature is an input variable used for prediction.
+What is feature engineering?,Feature engineering is the process of creating useful input variables.
+What is a model?,A model is an algorithm trained to make predictions.
+What is classification?,Classification predicts categories or labels.
+What is regression?,Regression predicts continuous values.
+What is clustering?,Clustering groups similar data points together.
+What is K-Means clustering?,K-Means is a popular clustering algorithm.
+What is decision tree?,A decision tree is a tree-like model for decisions and predictions.
+What is random forest?,Random Forest combines multiple decision trees for better predictions.
+What is SVM?,SVM stands for Support Vector Machine used for classification and regression.
+What is linear regression?,Linear regression predicts values using a linear relationship.
+What is logistic regression?,Logistic regression is used for binary classification tasks.
+What is TensorFlow?,TensorFlow is an open-source machine learning framework by Google.
+What is PyTorch?,PyTorch is an open-source deep learning library developed by Meta.
+What is Scikit-Learn?,Scikit-Learn is a Python library for machine learning.
+What is Pandas?,Pandas is a Python library for data manipulation and analysis.
+What is NumPy?,NumPy is a Python library for numerical computations.
+What is data preprocessing?,Data preprocessing prepares raw data for machine learning.
+What is normalization?,Normalization scales data to a standard range.
+What is standardization?,Standardization transforms data to have zero mean and unit variance.
+What is bias in AI?,Bias refers to systematic errors in AI predictions.
+What is an algorithm?,An algorithm is a set of instructions to solve problems.
+What is generative AI?,Generative AI creates new content such as text, images, or music.
+What is ChatGPT?,ChatGPT is an AI chatbot developed by OpenAI.
+What is prompt engineering?,Prompt engineering is designing effective inputs for AI systems.
+What is transfer learning?,Transfer learning uses knowledge from one task to improve another.
+What is cross-validation?,Cross-validation evaluates model performance using multiple data splits.
+What is confusion matrix?,A confusion matrix summarizes classification performance.
+What is big data?,Big data refers to extremely large datasets requiring advanced processing.
+What is automation?,Automation uses technology to perform tasks without human intervention.
+What are AI ethics?,AI ethics focuses on the responsible development and use of AI.
+What is HTML?,HTML stands for HyperText Markup Language and is used to create web pages.
+What is CSS?,CSS stands for Cascading Style Sheets and is used to style web pages.
+What is JavaScript?,JavaScript is a programming language used to make web pages interactive.
+What is Bootstrap?,Bootstrap is a CSS framework for building responsive websites.
+What is React?,React is a JavaScript library for building user interfaces.
+What is Angular?,Angular is a TypeScript-based web application framework.
+What is Node.js?,Node.js allows JavaScript to run on the server side.
+What is Express.js?,Express.js is a web framework for Node.js.
+What is REST API?,REST API is an architectural style for designing web services.
+What is JSON?,JSON stands for JavaScript Object Notation and is used for data exchange.
+What is Python?,Python is a high-level programming language known for simplicity.
+What is Java?,Java is an object-oriented programming language used for various applications.
+What is OOP?,OOP stands for Object-Oriented Programming.
+What are the pillars of OOP?,The pillars of OOP are Encapsulation Inheritance Polymorphism and Abstraction.
+What is inheritance in Java?,Inheritance allows one class to acquire properties of another class.
+What is polymorphism?,Polymorphism allows objects to take many forms.
+What is encapsulation?,Encapsulation hides data and methods within a class.
+What is abstraction?,Abstraction hides implementation details and shows essential features.
+What is a constructor?,A constructor initializes objects in a class.
+What is exception handling?,Exception handling manages runtime errors in programs.
+What is SQL?,SQL stands for Structured Query Language used to manage databases.
+What is MySQL?,MySQL is an open-source relational database management system.
+What is a primary key?,A primary key uniquely identifies records in a table.
+What is a foreign key?,A foreign key creates relationships between tables.
+What is normalization?,Normalization organizes database data to reduce redundancy.
+What is Machine Learning?,Machine Learning enables systems to learn from data.
+What is Artificial Intelligence?,AI is the simulation of human intelligence in machines.
+What is Deep Learning?,Deep Learning uses neural networks with many layers.
+What is NLP?,NLP stands for Natural Language Processing.
+What is Computer Vision?,Computer Vision enables machines to understand images and videos.
+What is cloud computing?,Cloud computing delivers computing services over the internet.
+What is AWS?,AWS stands for Amazon Web Services.
+What is Microsoft Azure?,Azure is a cloud computing platform by Microsoft.
+What is Google Cloud Platform?,Google Cloud Platform provides cloud services by Google.
+What is virtualization?,Virtualization creates virtual versions of computing resources.
+What is Docker?,Docker is a platform for containerizing applications.
+What is Kubernetes?,Kubernetes manages and orchestrates containers.
+What is cybersecurity?,Cybersecurity protects systems and networks from attacks.
+What is encryption?,Encryption converts data into a secure format.
+What is phishing?,Phishing is a cyberattack that steals sensitive information.
+What is data science?,Data science extracts insights from data.
+What is data analysis?,Data analysis examines data to draw conclusions.
+What is Pandas?,Pandas is a Python library for data manipulation.
+What is NumPy?,NumPy is a Python library for numerical computing.
+What is Git?,Git is a distributed version control system.
+What is GitHub?,GitHub is a platform for hosting Git repositories.
+What is an operating system?,An operating system manages computer hardware and software.
+What is Linux?,Linux is an open-source operating system.
+What is API?,An API allows different software applications to communicate.
+What is Agile methodology?,Agile is a software development methodology emphasizing iterative progress.
