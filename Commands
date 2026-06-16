@@ -1,0 +1,5 @@
+# install Package
+py -m pip install streamlit pandas nltk scikit-learn
+
+# Run the Project
+streamlit run app.py
